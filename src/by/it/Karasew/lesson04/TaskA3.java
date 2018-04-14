@@ -30,9 +30,9 @@ public class TaskA3 {
         int a=scanner.nextInt();
         int b=scanner.nextInt();
         int c=scanner.nextInt();
-        if (a==b && b==c)
-            System.out.println()
-                    else if (b==c)
-            )
+//        if (a==b && b==c)
+//            System.out.println();
+//                    else if (b==c)
+//            )
     }
 }
